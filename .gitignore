@@ -1,1 +1,7 @@
-# Replaced during the measured implementation run.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
