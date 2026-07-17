@@ -1,5 +1,3 @@
-# Calculator benchmark baseline
+# Calculator GUI benchmark
 
-Neutral baseline shared by the local Bartosz Dev Bridge benchmark and the GitHub-only benchmark.
-
-The measured task will replace this scaffold with a complete graphical calculator application.
+Placeholder baseline. Replaced during the measured implementation run.
